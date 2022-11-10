@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello word!!! 👋
+My name is Carmen, 
+🌱 I’m currently learning to program in R.
+💬 About me... I can say that I like Science Computer & Biology
 
 <!--
 **mruizpav/mruizpav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
